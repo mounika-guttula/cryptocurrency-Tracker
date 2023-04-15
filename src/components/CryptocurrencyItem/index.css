@@ -1,0 +1,17 @@
+.lists {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card {
+  display: flex;
+  align-items: center;
+}
+.image {
+  height: 15px;
+  width: 15px;
+}
+.lists-container {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.bg-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+}
+h1 {
+  text-align: center;
+  color: #00e7ff;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 5px;
+}
+.image {
+  width: 350px;
+}
+.list-container {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  border: 4px solid #00e7ff;
+  margin-top: 40px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding: 10px;
+}
+.coins {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+.cards-list {
+  display: flex;
+  align-items: center;
+}
+.usd {
+  text-align: right;
+  color: white;
+  width: 72px;
+}
